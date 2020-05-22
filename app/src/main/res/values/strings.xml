@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Baking App</string>
+
+    <!--Dialogs-->
+    <string name="network_dialog_title">No Internet Connection</string>
+    <string name="network_dialog_message">Please reconnect to the internet to view recipes</string>
+    <string name="ok">OK</string>
+
+    <!--buttons-->
+    <string name="next">Next Step</string>
+    <string name="prev">Previous Step</string>
+
+
+    <string name="ingredientsTitle">Ingredients</string>
+    <string name="stepsTitle">Steps</string>
+    <string name="detail_error_message"> Can not create Activity</string>
+    <string name="error_message">An error has occurred. Please try again.</string>
+
+    <string name="default_image_step">https://i2.wp.com/merdinianschool.org/wp-content/uploads/2017/09/kitchen-clipart-for-kids-12.png</string>
+
+    <!--video error-->
+    <string name="video_error_title">Could not stream video</string>
+    <string name="video_error_body">There was an error streaming the video. /nPlease try again.</string>
+    <string name="positive_btn">OK</string>
+
+
+
+    <!--Content description for loading bar-->
+    <string name="loading">Loading...</string>
+
+
+    <string name="favoriteTitle">Save recipe to favorites</string>
+    <string name="toggle_turn_on">Save recipe to favorites</string>
+    <string name="toggle_turn_off">Remove from favorites</string>
+</resources>
